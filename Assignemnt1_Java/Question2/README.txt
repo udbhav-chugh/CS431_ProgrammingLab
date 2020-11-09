@@ -1,4 +1,4 @@
-This is the README file for task2 of Assignment2: Data Modification in Distributed System
+This is the README file for task2 of Assignment1: Data Modification in Distributed System
 
 To compile the code, type the following command in the current folder:
 javac -d . *.java
